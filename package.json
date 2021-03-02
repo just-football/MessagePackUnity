@@ -1,0 +1,15 @@
+{
+  "name": "com.cysharp.messagepack-csharp",
+  "version": "2.2.85",
+  "displayName": "MessagePack-CSharp",
+  "keywords": [
+    "MessagePack", "Unity", "Serialization", "Serializer", "Network"
+  ],
+  "author": {
+    "name": "Cysharp",
+    "url": "https://github.com/neuecc/MessagePack-CSharp"
+  },
+  "description": "The extremely fast MessagePack serializer for C#. It is 10x faster than MsgPack-Cli and outperforms other C# serializers. MessagePack for C# also ships with built-in support for LZ4 compression - an extremely fast compression algorithm. Performance is important, particularly in applications like games, distributed computing, microservices, or data caches.",
+  "unity": "2019.4",
+  "dependencies": { }
+}
